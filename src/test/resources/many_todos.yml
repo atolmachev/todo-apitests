@@ -1,0 +1,9 @@
+todo:
+  - id: 1
+    title: "Buy bread"
+    completed: false
+    rank: 1
+  - id: 2
+    title: "Buy milk"
+    completed: false
+    rank: 2
